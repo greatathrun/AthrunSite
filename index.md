@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+#带着问题读论文
 
-You can use the [editor on GitHub](https://github.com/greatathrun/AthrunSite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##1. 该领域中解决相关问题的主要方法
+##2. 该领域中的方法课分为哪些派别或者系统
+##3. 每个派别的优点和缺点
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+在读重要的30-40篇论文后（abstract、introduction），能够解决前两个问题
+然后分派别解决第三个问题
 
-```markdown
-Syntax highlighted code block
+note：**用于理解该领域解决目前问题的主流方向有哪些，**    
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+&emsp;**每个方向使用的方法有哪些。**
 
-1. Numbered
-2. List
+&emsp;**从中找出可以改进的地方。**
 
-**Bold** and _Italic_ and `Code` text
+##4.这个领域内重要关键问题？哪些特性优点？哪些特性是在意的缺点？这些优点与缺点通常在哪些应用场合时会比较被重视？
+#论文主体 
+##5.论文主要假设（作用的前提），这些前提在现实中的可行性。
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/greatathrun/AthrunSite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##	 6.  论文在前提下通过该方法解决了什么具体问题。
+## 	 7. 具体方法的优点体现在什么公式和项目中。
+不需要详解公式的推导等，只要看是否有用和怎么用、以及前提
+[![](img\未命名图片.png)](https://www.baidu.com)
